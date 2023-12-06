@@ -1,0 +1,31 @@
+:root{
+	
+	--font-primary: 'Inter', sans-serif;
+	
+	--color-primary: #f4dfc8;
+	--color-primary-hover: #7C91FF;
+	
+	--bg-list: #f4eae0;
+	
+	--black: #000000;
+	--black-primary:#222;
+	--black-secondary:#444;
+	--black-paragraph:#666;
+	--white: #ffffff;
+	--bg-body: #faf6f0;
+}
+
+
+
+
+body{
+	background-color: var(--bg-body);
+}
+
+
+.container {
+	margin: 0 auto;
+	width: 100%;
+
+	max-width: 59.375rem;
+}
